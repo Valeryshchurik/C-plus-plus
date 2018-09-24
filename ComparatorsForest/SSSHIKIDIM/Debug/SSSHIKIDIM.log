@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\msi\documents\visual studio 2015\projects\ssshikidim\ssshikidim\source.cpp(121): warning C4018: '<': signed/unsigned mismatch
+  SSSHIKIDIM.vcxproj -> C:\Users\msi\documents\visual studio 2015\Projects\SSSHIKIDIM\Debug\SSSHIKIDIM.exe
+  SSSHIKIDIM.vcxproj -> C:\Users\msi\documents\visual studio 2015\Projects\SSSHIKIDIM\Debug\SSSHIKIDIM.pdb (Partial PDB)

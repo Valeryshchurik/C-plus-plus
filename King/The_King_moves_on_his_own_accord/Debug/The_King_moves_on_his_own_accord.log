@@ -1,0 +1,6 @@
+﻿  King.cpp
+c:\users\msi\documents\visual studio 2015\projects\the_king_moves_on_his_own_accord\the_king_moves_on_his_own_accord\king.cpp(71): warning C4018: '<': signed/unsigned mismatch
+c:\users\msi\documents\visual studio 2015\projects\the_king_moves_on_his_own_accord\the_king_moves_on_his_own_accord\king.cpp(81): warning C4018: '<': signed/unsigned mismatch
+c:\users\msi\documents\visual studio 2015\projects\the_king_moves_on_his_own_accord\the_king_moves_on_his_own_accord\king.cpp(91): warning C4018: '<': signed/unsigned mismatch
+  The_King_moves_on_his_own_accord.vcxproj -> C:\Users\msi\documents\visual studio 2015\Projects\The_King_moves_on_his_own_accord\Debug\The_King_moves_on_his_own_accord.exe
+  The_King_moves_on_his_own_accord.vcxproj -> C:\Users\msi\documents\visual studio 2015\Projects\The_King_moves_on_his_own_accord\Debug\The_King_moves_on_his_own_accord.pdb (Partial PDB)
