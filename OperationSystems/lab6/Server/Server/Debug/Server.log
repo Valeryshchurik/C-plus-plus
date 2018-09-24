@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  ServerCore.cpp
+  Server.cpp
+e:\lab6\server\server\server.cpp(42): error C3861: 'gets': identifier not found
+  ErrorHandler.cpp
+  Generating Code...

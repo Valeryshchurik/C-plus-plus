@@ -1,0 +1,22 @@
+﻿Сборка начата 18.09.2015 0:18:41.
+     1>Проект "d:\Дмитрий\Программы\Программирование сетевых приложений\lab2\Client\Client\Client.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         D:\VisualStudio2013\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Release\Client.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         D:\VisualStudio2013\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\Client.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Client.cpp ClientCore.cpp ErrorHandler.cpp
+         Client.cpp
+         ClientCore.cpp
+         ErrorHandler.cpp
+       Link:
+         D:\VisualStudio2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Дмитрий\Программы\Программирование сетевых приложений\lab2\Client\Release\Client.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Дмитрий\Программы\Программирование сетевых приложений\lab2\Client\Release\Client.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Дмитрий\Программы\Программирование сетевых приложений\lab2\Client\Release\Client.lib" /MACHINE:X86 /SAFESEH Release\Client.obj
+         Release\ClientCore.obj
+         Release\ErrorHandler.obj
+         Release\stdafx.obj
+         Создание кода
+         Создание кода завершено
+         Client.vcxproj -> D:\Дмитрий\Программы\Программирование сетевых приложений\lab2\Client\Release\Client.exe
+     1>Сборка проекта "d:\Дмитрий\Программы\Программирование сетевых приложений\lab2\Client\Client\Client.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:05.63
